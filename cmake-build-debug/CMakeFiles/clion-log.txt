@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Udemy Courses\C++ Beginners\Section 5\untitled"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Udemy Courses/C++ Beginners/Section 5/untitled/cmake-build-debug

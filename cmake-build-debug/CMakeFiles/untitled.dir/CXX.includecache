@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Udemy Courses/C++ Beginners/Section 5/untitled/UnitatiDeLungime.cpp
+UnitatiDeLungime.h
+D:/Udemy Courses/C++ Beginners/Section 5/untitled/UnitatiDeLungime.h
+
+D:/Udemy Courses/C++ Beginners/Section 5/untitled/UnitatiDeLungime.h
+iostream
+-
+sstream
+-
+
+D:/Udemy Courses/C++ Beginners/Section 5/untitled/main.cpp
+UnitatiDeLungime.h
+D:/Udemy Courses/C++ Beginners/Section 5/untitled/UnitatiDeLungime.h
+
