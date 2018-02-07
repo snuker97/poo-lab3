@@ -3,7 +3,10 @@
 int main() {
 
     UnitatiDeLungime obiect1(5, 5, 5);
-    UnitatiDeLungime obiect2(5, 5, 5);
+
+    UnitatiDeLungime obiect2;
+    obiect2.setUnitatiDeLungime(5, 5, 5);
+
     UnitatiDeLungime obiect3;
 
     cout << obiect1.getUnitatiDeLungime() << endl;

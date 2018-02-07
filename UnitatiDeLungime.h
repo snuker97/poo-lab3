@@ -73,6 +73,16 @@ public:
         return temp;
     }
 
+    UnitatiDeLungime operator/(UnitatiDeLungime object) {
+        UnitatiDeLungime temp;
+
+        temp.milimetri = milimetri / object.milimetri;
+        temp.centimetri = centimetri / object.centimetri;
+        temp.metri = metri / object.metri;
+
+        return temp;
+    }
+
     // Metode
     void convertUnits(UnitatiDeLungime object);
 

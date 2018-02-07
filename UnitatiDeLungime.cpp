@@ -4,7 +4,7 @@
 void UnitatiDeLungime::setUnitatiDeLungime(int metri, int centimetri, int milimetri) {
     this->metri = metri;
     this->centimetri = centimetri;
-    this->metri = metri;
+    this->milimetri = milimetri;
 }
 
 void UnitatiDeLungime::setMetri(int metri) {
